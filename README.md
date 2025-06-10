@@ -1,16 +1,19 @@
-## Hi there 👋
+## <h1 align="center">Hi 👋, I'm Fakhri</h1>
 
-<!--
-**FakhriHH/FakhriHH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  🚀 Aspiring Backend Developer |  🌱 Always Learning  | 💻 JavaScript Explorer
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 👨‍💻 About Me
+
+- 🌱 I’m a beginner programmer focusing on **backend development**
+- 🔧 I’m currently learning **JavaScript, Node.js, and Express.js**
+- 📦 Open to learning other programming languages and frameworks
+- 🤝 I love working on team projects and learning by doing
+- 📫 How to reach me: fakhrihabib9@gmail.com
+
+---
+
+**Thank you for visiting my GitHub profile! **
