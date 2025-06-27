@@ -1,7 +1,7 @@
 ## <h1 align="center">Hi 👋, I'm Fakhri</h1>
 
 <p align="center">
-  🚀 Aspiring Backend Developer |  🌱 Always Learning  | 💻 JavaScript Explorer
+  🚀 Junior Backend Developer |  🌱 Always Learning  | 💻 JavaScript Explorer
 </p>
 
 ---
