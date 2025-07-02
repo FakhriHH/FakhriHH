@@ -33,7 +33,7 @@ A daily practice repository to sharpen my PHP and Laravel skills, focusing on co
 
 ### 🌐 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/fakhri-habib-1b16522b6)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](www.linkedin.com/in/fakhrihh)  
 
 ---
 
